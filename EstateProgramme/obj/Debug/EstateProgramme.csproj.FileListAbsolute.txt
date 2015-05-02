@@ -1,0 +1,10 @@
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\bin\Debug\EstateProgramme.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\bin\Debug\EstateProgramme.exe
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\bin\Debug\EstateProgramme.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\obj\Debug\EstateProgramme.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\obj\Debug\EstateProgramme.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\obj\Debug\EstateProgramme.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\obj\Debug\EstateProgramme.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\obj\Debug\EstateProgramme.exe
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\obj\Debug\EstateProgramme.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\EstateProgramme\EstateProgramme\obj\Debug\EstateProgramme.Form2.resources
